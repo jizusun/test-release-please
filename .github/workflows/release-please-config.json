@@ -1,0 +1,8 @@
+{
+    "release-type": "python",
+    "prerelease-type": "beta",
+    "draft": true,
+    "prerelease": true,
+    "versioning": "prelease",
+    "group-pull-request-title-pattern": "chore: release ${branch}"
+  }
