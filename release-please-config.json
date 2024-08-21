@@ -1,7 +1,12 @@
-{
+"packages": {
+  ".": {
+    "changelog-path": "CHANGELOG.md",
     "release-type": "python",
-    "prerelease-type": "beta",
+    "prerelease-type": "rc",
+    "bump-minor-pre-major": false,
+    "bump-patch-for-minor-pre-major": false,
+    "draft": false,
     "prerelease": true,
-    "versioning": "prelease",
-    "group-pull-request-title-pattern": "chore: release ${branch}"
+    "versioning": "prerelease"
   }
+}
