@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "test-release-please"
-version = "2.1.0-rc"
+version = "2.1.0-rc.1"
 description = ""
 authors = ["dinjazelena <pavletabandzelic0111@gmail.com>"]
 readme = "README.md"
